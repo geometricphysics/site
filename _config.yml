@@ -88,6 +88,6 @@ exclude_generator:
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: github
-  repo: git@github.com:geometricphysics/geometricphysics.github.io.git
+  repo: https://github.com/geometricphysics/geometricphysics.github.io.git
   branch: master
 
