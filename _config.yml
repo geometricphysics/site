@@ -3,7 +3,7 @@
 ## Source: https://github.com/tommy351/hexo/
 
 # Site
-title: Geometric Physics
+title: Geometric Physics!
 subtitle: Mathematical Physiscs for the 21st Century
 description:
 author: David Holmes
@@ -88,6 +88,6 @@ exclude_generator:
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: github
-  repo: https://github.com/geometricphysics/geometricphysics.github.io.git
+  repo: git@github.com:geometricphysics/geometricphysics.github.io.git
   branch: master
 
